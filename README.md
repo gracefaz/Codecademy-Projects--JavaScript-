@@ -1,0 +1,2 @@
+# Codecademy Projects (JavaScript)
+This repository consists of my completed Codecademy projects from the *Learn JavaScript* course. Codecademy projects are formatted in such a way that give step-by-step instructions and prompts to complete the projects sucessfully. Each topic on Codecademy is concluded with a project to solidify what you have learned during the module. After earning Codecademy certifications in HTML and CSS, I decided to try my hand at some JavaScript, mainly to see the similarities/differences to Python (also earned Python certification).
