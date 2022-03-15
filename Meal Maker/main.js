@@ -1,3 +1,5 @@
+// For some reason code not working. Error says that 'dish' is not defined?
+
 const menu = {
   _courses: {
     appetizers: [],
