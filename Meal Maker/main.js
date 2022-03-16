@@ -36,10 +36,10 @@ const menu = {
       name: dishName,
       price: dishPrice,
     };
-    return this._courses[courseName].push(dish);
+    return this._courses.push(dish);
   },
   getRandomDishFromCourse(courseName) {
-    const dishes = this._courses[courseName].push(dish);
+    const dishes = this.courses.push(dish);
     const randomIndex = Math.floor(Math.random() * dishes.length);
     return dishes[randomIndex];
   },
